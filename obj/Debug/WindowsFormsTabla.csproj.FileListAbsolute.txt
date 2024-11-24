@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\bin\Debug\WindowsFormsTabla.exe.config
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\bin\Debug\WindowsFormsTabla.exe
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\bin\Debug\WindowsFormsTabla.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\obj\Debug\WindowsFormsTabla.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\obj\Debug\WindowsFormsTabla.Form1.resources
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\obj\Debug\WindowsFormsTabla.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\obj\Debug\WindowsFormsTabla.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\obj\Debug\WindowsFormsTabla.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\obj\Debug\WindowsFormsTabla.exe
+C:\Users\Lenovo\source\repos\WindowsFormsTabla\obj\Debug\WindowsFormsTabla.pdb
